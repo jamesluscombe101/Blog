@@ -13,7 +13,7 @@ thumbnail: /assets/c3482-1omksnab6z6shhwsunt8zxg.webp
 
 The chatbot is focused on helping users find their next book to read our a gift for someone else. It’s still early days and we are constantly refining and improving as we go.
 
-Whilst we’ve developed a custom chatbot CMS with the[very talented guys at BAM](http://bam-mobile.com/)that allows us to updated it theses lessons are equally valid for chatbots built upon other platforms like Chat Fuel.
+Whilst we’ve developed a custom chatbot CMS with the [very talented guys at BAM](http://bam-mobile.com/)that allows us to updated it theses lessons are equally valid for chatbots built upon other platforms like Chat Fuel.
 
 #### Don’t forget about the chat
 
